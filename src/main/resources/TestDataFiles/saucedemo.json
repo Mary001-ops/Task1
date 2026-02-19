@@ -1,0 +1,15 @@
+{
+  "loginWithValidCredentials": {
+    "ValidUsername": "standard_user",
+    "ValidPassword": "secret_sauce"
+  },
+    "loginWithInvalidUserName": {
+        "InvalidUsername": "invalid_user",
+        "ValidPassword": "secret_sauce"
+    },
+  "loginWithInvalidPassword": {
+    "ValidUsername": "standard_user",
+    "InvalidPassword": "invalid_password"
+  }
+
+  }
